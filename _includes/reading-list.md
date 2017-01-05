@@ -1,3 +1,7 @@
+---
+layout: default
+title: "Min läslista"
+---
 # Min läslista
 Här är min samlade lästlista på både böcker jag vill läsa samt som jag har läst.
 ## Filosofi, etik & psykologi
