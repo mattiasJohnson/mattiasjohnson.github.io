@@ -1,3 +1,5 @@
+::selection {background: black; color: white;}
+
 body {
     margin: 60px auto;
     width: 70%;
@@ -27,6 +29,7 @@ p {
     font-size: 1.5em;
     line-height: 1.4em;
     color: #333;
+    padding-top: 0cm;
 }
 footer {
     border-top: 1px solid #d5d5d5;
@@ -42,6 +45,6 @@ ul.posts li {
     list-style: none;
 }
 
-ul {
-  font: 'Helvetiva';
+pre {
+  background: #eee;
 }

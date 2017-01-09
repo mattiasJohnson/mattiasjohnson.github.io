@@ -21,7 +21,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer vestibulum in o
 
 ## Koden
 
-```java
+{% highlight Java %}
 protected boolean isPrime(long num) {
 
 		if (num % 2 == 0) {
@@ -36,7 +36,7 @@ protected boolean isPrime(long num) {
 
 		return true;
 	}
-```
+{% endhighlight %}
 
 ## Varför den fungerar
 

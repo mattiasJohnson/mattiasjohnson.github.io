@@ -1,3 +1,4 @@
 name: Hank Quinlan, Horrible COp
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+syntax_highlighter: rouge
