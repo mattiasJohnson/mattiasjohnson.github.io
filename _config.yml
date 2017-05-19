@@ -1,4 +1,3 @@
-name: Hank Quinlan, Horrible COp
+name: Mattias Johnson
 markdown: kramdown
-permalink: /blog/:year/:month/:day/:title
-syntax_highlighter: rouge
+permalink: /blog/:title
