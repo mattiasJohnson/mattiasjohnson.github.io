@@ -19,6 +19,13 @@ font-family: 'Helvetica', 'Arial', 'Sans-Serif';
   color: #333;
 }
 
+.blog-list {
+  list-style: none;
+}
+  h2 .blog-list {
+    margin-top: 0px;
+  }
+
 /* ============= miscellaneous ============= */
 
 a {
@@ -28,9 +35,9 @@ a {
 }
 
 ::selection {
-  color; white;
-  bakcground: black;
-
+  color: white;
+  background: black;
+}
 
 /* ============= nav ============= */
 
@@ -69,11 +76,6 @@ footer {
     margin-left: 1em;
 }
 /* ============= custom additions ============= */
-
-::selection {
-  color: white;
-  background-color: black;
-}
 
 a:before {
   content: "";
