@@ -22,8 +22,8 @@ font-family: 'Helvetica', 'Arial', 'Sans-Serif';
 .blog-list {
   list-style: none;
 }
-  h2 .blog-list {
-    margin-top: 0px;
+  ul li h2 { /* ingen aning om hur prioriteringen fungerar men detta ger det resultat jag vill ha */
+    margin: 0.2em auto 1.6em auto;
   }
 
 /* ============= miscellaneous ============= */
